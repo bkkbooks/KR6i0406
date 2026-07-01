@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6i0406/v1
+canonical_location: https://kanripo.org/bkk/KR6i0406/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 大乘稻芉經隨聽疏決
+  identifiers:
+    alt_id:
+    - T85n2783
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2783.xml
+    old_id: T85n2783
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0406_000.yaml, hash: 'sha256:7016700b60a2717e5cd861ce09dd14a2e8104966c2328f7a52bea94d4da31594'}
+  - {seq: 1, filename: KR6i0406_001.yaml, hash: 'sha256:c36318762045922e5138a2c4de281d0b2595267d92161ac325d770438cf9265a'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6i0406_001.markers.yaml, hash: 'sha256:13329c5c3414c3470f3e53c87ecb600dc24278713cd46d2613c895a83a176495'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0406_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1484
+  label: 大乘稻芉經隨聽疏決
+  type: juan
+  level: 1
+hash: sha256:6c056bc1ffef5aa75915f0147c3aa92b41d1e59188bc1b1be2254b8ef95c86db
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

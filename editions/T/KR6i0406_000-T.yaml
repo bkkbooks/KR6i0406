@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0406/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大乘稻芉經隨聽疏決
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2783.xml
+    old_id: T85n2783
+hash: sha256:7016700b60a2717e5cd861ce09dd14a2e8104966c2328f7a52bea94d4da31594
