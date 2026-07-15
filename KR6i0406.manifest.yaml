@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0406/v1
 canonical_location: https://kanripo.org/bkk/KR6i0406/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 大乘稻芉經隨聽疏決
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0406_000.yaml, hash: 'sha256:7016700b60a2717e5cd861ce09dd14a2e8104966c2328f7a52bea94d4da31594'}
-  - {seq: 1, filename: KR6i0406_001.yaml, hash: 'sha256:40d48c20564b59df2ee8c66ec76557bd9c4f5923521d05b9f4660d4feb9f57c5'}
+  - {seq: 1, filename: KR6i0406_001.yaml, hash: 'sha256:1fde593a5aab8503c354ec621eb987d0f7c56050b7db055339d1affbc3b6dec5'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0406_000.markers.yaml, hash: 'sha256:e462147c2fb4eda4853a13903c03acfcdf02529714f5bc6d5a6893effe018a01'}
-  - {seq: 1, role: markers, filename: assets/KR6i0406_001.markers.yaml, hash: 'sha256:53bc19c74f3f9d7bbf0cedf290a53983387f71e0b90534816e7b6a23271b0bab'}
+  - {seq: 1, role: markers, filename: assets/KR6i0406_001.markers.yaml, hash: 'sha256:a2e54262f1ef5f82b7117211fa73315c25d6551342c9cb6716a7c52b90d9ebbd'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 大乘稻芉經隨聽疏決
   type: juan
   level: 1
-hash: sha256:a2993e071618d949ada2af60daa166a0ff67501d174bdcae422b0da246b3ef22
+hash: sha256:b317c0dbd814c48ea3d21049eeb37fd33d772796eebd782c5dcadf905e8b36af
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
